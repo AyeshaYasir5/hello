@@ -6,3 +6,9 @@ p{
     color: yellow;
     font-size: 150px;
 }
+.navbar{
+    display: flex;
+    margin: 30px;
+    padding: 20px;
+    color: blue;
+}
